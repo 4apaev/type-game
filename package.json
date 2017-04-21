@@ -8,7 +8,8 @@
     "email": "4apaev@gmail.com"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url":"git@github.com:4apaev/type-game.git"
   },
   "scripts": {
     "start" : "node index"
