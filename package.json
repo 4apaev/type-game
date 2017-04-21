@@ -1,0 +1,19 @@
+{
+  "name": "typegame",
+  "version": "1.0.0",
+  "description": "type game",
+  "main": "index.js",
+  "author": {
+    "name": "Michael Miretski",
+    "email": "4apaev@gmail.com"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+    "start" : "node index"
+  },
+  "dependencies": {
+    "miniserver": "https://github.com/4apaev/miniserver.git"
+  }
+}
